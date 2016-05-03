@@ -3,7 +3,7 @@ grails 2 allpay(歐付寶) plugin
 
 # Install
 
-    compile ':allpay:0.1'
+    compile "org.grails.plugins:allpay:0.1"
 
 # Config
 設定 grails-app/conf/Config.groovy
